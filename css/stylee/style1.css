@@ -88,3 +88,9 @@
     color: #fff;
 
 }
+.content1 p{
+    font-size: 20px;
+    padding: 12px 20px;
+    justify-content: center;
+    align-items: center;
+}
